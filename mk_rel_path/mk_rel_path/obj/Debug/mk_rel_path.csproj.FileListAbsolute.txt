@@ -1,0 +1,5 @@
+C:\work\mk_rel_path\mk_rel_path\bin\Debug\mk_rel_path.exe.config
+C:\work\mk_rel_path\mk_rel_path\bin\Debug\mk_rel_path.exe
+C:\work\mk_rel_path\mk_rel_path\bin\Debug\mk_rel_path.pdb
+C:\work\mk_rel_path\mk_rel_path\obj\Debug\mk_rel_path.exe
+C:\work\mk_rel_path\mk_rel_path\obj\Debug\mk_rel_path.pdb
