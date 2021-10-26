@@ -1,0 +1,38 @@
+table {
+  width: auto;
+  border-spacing: 0;
+  font-size:14px;
+}
+table tr td {
+  padding: 8px 15px;
+  text-align: center;
+  border-right: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+}
+table tr td:first-child {
+  color: #000;
+  padding: 8px 15px;
+  background: #eee;
+  background:-moz-linear-gradient(#eee, #ddd 50%);
+  background:-webkit-gradient(linear, 100% 0%, 100% 50%, from(#eee), to(#ddd));
+  font-weight: bold;
+  line-height: 120%;
+  text-align: center;
+  border-left: 1px solid #aaa;
+}
+table tr td:last-child {
+  border-right: 1px solid #aaa;
+}
+table tr {
+  background: #fff;
+}
+table tr:first-child td {
+  border-top: 1px solid #aaa;
+}
+table tr:nth-child(2n+1) {
+  background: #f5f5f5;
+}
+table tr:hover {
+  background: #eee;
+  cursor:pointer;
+}
